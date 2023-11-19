@@ -77,6 +77,9 @@ packages:
     "Liang-Ting Chen<liang.ting.chen.tw@gmail.com> @L-TChen":
         - geniplate-mirror
 
+    "Oleg Musijenko<cz-poselsky@seznam.cz> @Poselsky":
+        - material-parser
+
     "Andreas Abel <andreas.abel@gu.se> @andreasabel":
         - Agda
         - agda2lagda
